@@ -1,0 +1,44 @@
+/* Main Section Heading */
+h1 {
+    font-size: 3em;  /* Larger size for the main heading */
+    font-weight: bold;
+    text-align: center;
+    color: #4CAF50;  /* Green color for emphasis */
+}
+
+/* Subsection Heading */
+h2 {
+    font-size: 2.25em;  /* Slightly smaller than h1 */
+    font-weight: bold;
+    color: #0056b3;  /* Darker blue for secondary heading */
+    border-bottom: 2px solid #0056b3;  /* Underline effect */
+    display: inline-block;
+    padding: 1px 0;  /* Less padding to keep it compact */
+}
+
+/* Sub-Subsection Heading */
+h3 {
+    font-size: 1.75em;  /* Slightly bigger for clearer distinction */
+    font-weight: normal;
+    color: #0066cc;  /* Standard Bootstrap blue */
+    border-bottom: 1px solid #0066cc;  /* Thinner border */
+    display: inline-block;
+    padding: 5px 0;  /* Less padding to keep it compact */
+}
+
+/* Sub-Sub-Subsection Heading (h4) */
+h4 {
+    font-size: 1.5em;  /* Smaller than h3 but still readable */
+    font-weight: normal;  /* Slightly less emphasis than h3 */
+    color: #007bff;  /* Muted gray color to maintain hierarchy */
+    padding: 5px 0;  /* Less padding to keep it compact */
+}
+
+/* Style for paragraph text */
+p {
+    font-size: 14px;  /* Slightly larger for better readability */
+    color: #333333;  /* Dark text for high contrast */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;  /* Improve readability with line height */
+    padding: 5px 0;
+}
